@@ -93,3 +93,17 @@ form button:disabled {
     cursor: not-allowed;
     background-color: #e54646;
 }
+
+#cronograma h2, #lista-presente h2 {
+    font-size: 16px;
+}
+
+#cronograma p, #lista-presente p {
+    margin-top: 15px;
+}
+
+#cronograma ul li, #lista-presente ul li {
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 14px;
+}
